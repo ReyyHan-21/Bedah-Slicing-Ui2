@@ -1,4 +1,4 @@
-# duplikasi_ui2
+# Duplicate UI
 
 A new Flutter project.
 
